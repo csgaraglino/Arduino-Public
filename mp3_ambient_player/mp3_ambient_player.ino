@@ -4,6 +4,10 @@
   Uasge Rights: https://www.sgaraglino.com/usage-rights
   License: Creative Commons 3.0
  ***************************************************
+   If you would like to buy me a beer for my hard work 
+  and help keep these projects free, PayPal me a few
+  bucks at: chris@sgaraglino.com 
+  ***************************************************
  Description: Plays Ambient Music and/or Sound file
  Fritizing: mp3_ambient_player.jpg
  Board: UNO & Nano

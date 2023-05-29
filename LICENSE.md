@@ -1,4 +1,4 @@
-# h1 Usage Rights & Licensing
+#H1Usage Rights & Licensing
  
 If you want to use one or more of my “works,” they are licensed in one of two forms, “All Rights Reserved” or “Creative Commons.” All works, by default, fall under “All rights reserved” unless specifically noted as “Creative Commons.” If you want to use any of my works for a non-commercial purpose, you are welcome to do so under the “Creative Commons” guidelines listed below. If you need a commercial version, please email me at chris@sgaraglino.com with your contact information, and I will call you to discuss licensing.
 

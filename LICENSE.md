@@ -15,7 +15,7 @@ If you are using any of my works under Section 107 of the US Copyright Act, I wo
 # Creative Commons
  
 # ATTRIBUTION-NONCOMMERCIAL-SHAREALIKE 3.0
-# H1 UNPORTED (CC BY-NC-SA 3.0)
+# UNPORTED (CC BY-NC-SA 3.0)
 
 This license lets you remix, tweak, and build upon your work non-commercially as long as you credit “ChrisSgaraglino.com” and license your new creations under identical terms.
 

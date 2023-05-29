@@ -6,5 +6,5 @@ Parts List:
 4. Speakers https://amzn.to/3qgbLZ2
 5. Breadboard https://amzn.to/43woUeU
 6. Solderable Breadboard https://amzn.to/45DAsPp
-7. Bredboard Jumper Wires https://amzn.to/3WTxlip
+7. Breadboard Jumper Wires https://amzn.to/3WTxlip
 8. 1k Resistor https://amzn.to/3C0fSuP

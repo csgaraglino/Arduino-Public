@@ -1,9 +1,5 @@
 ***************************************************
-
-  (c) Chris Sgaraglino (https://www.sgaraglino.com)
-  Uasge Rights: https://www.sgaraglino.com/usage-rights
-  License: Creative Commons 3.0
-
+delete CS data
 ***************************************************
 
   If you would like to buy me a beer for my hard work 

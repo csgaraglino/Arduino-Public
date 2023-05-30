@@ -1,4 +1,4 @@
-/***************************************************
+***************************************************
 
   (c) Chris Sgaraglino (https://www.sgaraglino.com)
   Uasge Rights: https://www.sgaraglino.com/usage-rights

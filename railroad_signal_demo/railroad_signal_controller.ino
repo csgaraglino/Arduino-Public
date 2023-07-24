@@ -1,7 +1,7 @@
 /***************************************************
   File: railroad_signal_demo
   (c) Chris Sgaraglino https://www.sgaraglino.com
-  Uasge Rights: https://www.sgaraglino.com/usage-rights
+  Usage Rights: https://www.sgaraglino.com/usage-rights
   License: Creative Commons 3.0
  ***************************************************
   If you would like to buy me a beer for my hard work 

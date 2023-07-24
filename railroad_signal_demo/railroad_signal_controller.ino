@@ -8,7 +8,7 @@
   and help keep these projects free, PayPal me a few
   bucks at: chris@sgaraglino.com 
  ***************************************************
-  Description: Designed to run a real size 3-light sigbal
+  Description: Designed to run a real size 3-light signal
   Fritizing: Yes
   Board: UNO & Nano
 

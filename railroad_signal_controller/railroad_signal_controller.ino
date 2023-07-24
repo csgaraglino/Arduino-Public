@@ -18,9 +18,9 @@
   Read this blog post I wrote to know why:
   https://www.wcmrr.com/railroad-signal-controller
 
-  Date: July 24, 2023 
-  Version: 1.1.0
  ****************************************************/
+
+String version = "07/24/2023  v1.1.1"; // set the code date and version
 
 #define LEDG 02
 #define LEDY 03
@@ -30,7 +30,13 @@ int randVal2 = 60; //Random Value End
 
 void setup()
 {
-  // Serial.begin(9600);
+  Serial.begin(9600);
+  Serial.println(String(" "));
+  Serial.println(String("Railroad Signal Controller"));
+  Serial.println(String("Widow Creek Electronics"));
+  Serial.println(String("www.widowcreekelectronics.com"));
+  Serial.println(String(version));
+
   pinMode(LEDG, OUTPUT);
   pinMode(LEDY, OUTPUT);
   pinMode(LEDR, OUTPUT);

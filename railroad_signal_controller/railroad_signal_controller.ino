@@ -20,7 +20,7 @@
 
  ****************************************************/
 
-String version = "07/24/2023  v1.1.1"; // set the code date and version
+String version = "07/24/2023  v1.1.2"; // set the code date and version
 
 #define LEDG 02
 #define LEDY 03
@@ -33,8 +33,8 @@ void setup()
   Serial.begin(9600);
   Serial.println(String(" "));
   Serial.println(String("Railroad Signal Controller"));
-  Serial.println(String("Widow Creek Electronics"));
-  Serial.println(String("www.widowcreekelectronics.com"));
+  Serial.println(String("Chris Sgaraglino"));
+  Serial.println(String("www.sgaraglino.com"));
   Serial.println(String(version));
 
   pinMode(LEDG, OUTPUT);

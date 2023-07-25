@@ -20,7 +20,7 @@
 
  ****************************************************/
 
-String version = "07/24/2023  v1.1.2"; // set the code date and version
+String version = "07/24/2023  v1.1.1"; // set the code date and version
 
 #define LEDG 02
 #define LEDY 03

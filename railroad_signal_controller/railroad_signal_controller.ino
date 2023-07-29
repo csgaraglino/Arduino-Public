@@ -20,13 +20,14 @@
 
  ****************************************************/
 
-String version = "07/24/2023  v1.1.1"; // set the code date and version
+String version = "07/29/2023  v1.2.0"; // set the code date and version
 
 #define LEDG 02
 #define LEDY 03
 #define LEDR 04
-int randVal1 = 20; //Random Value Start
-int randVal2 = 60; //Random Value End
+int speedSwitch = 0; // 0 slow - 1 fast
+int randVal1 = 4; //Random Value Start
+int randVal2 = 10; //Random Value End
 
 void setup()
 {
@@ -40,6 +41,12 @@ void setup()
   pinMode(LEDG, OUTPUT);
   pinMode(LEDY, OUTPUT);
   pinMode(LEDR, OUTPUT);
+  pinMode(5, INPUT_PULLUP);
+  if (digitalRead(5) == 1) {
+    randVal1 = 20;
+    randVal2 = 60;
+    }  
+  
   randomSeed(analogRead(A0)); // grab a floating number form the analog noise  
 
 }
